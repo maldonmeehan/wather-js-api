@@ -1,0 +1,17 @@
+{
+  "name": "weather",
+  "homepage": "https://github.com/maldonmeehan/weather-js-api",
+  "authors": [
+    "Marty Fitchen <mfitchen@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
